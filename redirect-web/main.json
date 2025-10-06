@@ -1,10 +1,12 @@
-{
-  "ID": "test",
-  "Url": "https://N-blog.f5.si",
-  "l": "サンプルページ"
-}
-,{
-  "ID": "on_exa",
-  "Url": "https://N-blog.f5.si",
-  "l": "サンプルページ"
-}
+[
+  {
+    "ID": "test",
+    "Url": "https://N-blog.f5.si",
+    "l": "サンプルページ"
+  },
+  {
+    "ID": "on_exa",
+    "Url": "https://N-blog.f5.si",
+    "l": "サンプルページ"
+  }
+]
