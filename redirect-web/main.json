@@ -1,12 +1,21 @@
 [
   {
-    "ID": "test",
+    "ID": "blog",
     "Url": "https://N-blog.f5.si",
-    "l": "サンプルページ "
+    "l": " "
   },
   {
-    "ID": "on_exa",
+    "ID": "main",
     "Url": "https://N-blog.f5.si",
     "l": "サンプルページ"
-  }
+  },  {
+    "ID": "scratch",
+    "Url": "https://scratch.mit.edu/users/N-blogacount/",
+    "l": "サンプルページ"
+  },
+   {
+    "ID": "x",
+    "Url": "https://x.com/n_blogacount",
+    "l": "サンプルページ"
+  },
 ]
